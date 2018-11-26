@@ -1,4 +1,4 @@
-# OnlineStore
+# Home store shop
 
 This is a online store app implemented using Angular 4.
 
